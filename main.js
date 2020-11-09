@@ -1,1 +1,3 @@
-console.log('Hola chicos');
+function saludo(){
+    return 'Hola'
+}
